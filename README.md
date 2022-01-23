@@ -18,4 +18,6 @@ A preview of the project:
 
 I used React as my javascript framework, SCSS for styling and the React Icons Lib
 
+## Next Steps
 
+I plan to add a day/night color scheme and maybe use more pokemon infos
