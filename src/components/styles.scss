@@ -1,0 +1,195 @@
+.box-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 2rem;
+  font-family: "Poppins";
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  flex: 1;
+  min-width: 160px;
+
+  img {
+    width: 70%;
+  }
+}
+
+p {
+  margin: 0.3rem 0;
+}
+
+.Rock {
+  background-color: rgb(148, 81, 81);
+  color: rgb(94, 52, 52);
+}
+
+.type {
+  border: none;
+  border-radius: 9%;
+  padding: 0.15em 0.4rem;
+  background: #9169b6;
+}
+
+.type-Rock {
+  color: rgb(44, 43, 43);
+  background: rgb(94, 52, 52);
+}
+.Ghost {
+  background-color: #603c9b;
+  color: #9169b6;
+}
+.type-Ghost {
+  color: rgb(44, 43, 43);
+}
+.Electric {
+  background-color: #f8d030;
+  color: #fcb900;
+}
+.type-Electric {
+  color: rgb(44, 43, 43);
+  background: #fcb900;
+}
+.Bug {
+  background-color: #00da99;
+  color: #176607;
+}
+.type-Bug {
+  color: rgb(44, 43, 43);
+  background: #30ee50;
+}
+.Poison {
+  color: #8b008b;
+  background-color: #a040a0;
+}
+.type-Poison {
+  color: rgb(44, 43, 43);
+  background: #8b008b;
+}
+
+.Normal {
+  background-color: #f4f4f4;
+  color: #b6b6b6;
+}
+.type-Normal {
+  color: rgb(44, 43, 43);
+  background: #b6b6b6;
+}
+
+.Fighting {
+  background-color: #c03028;
+  color: #8a1a11;
+}
+
+.type-Fighting {
+  color: rgb(44, 43, 43);
+  background: #f30303;
+}
+
+.Fairy {
+  background-color: #ee99ac;
+  color: #c23050;
+}
+.type-Fairy {
+  color: rgb(44, 43, 43);
+  background: #c23050;
+}
+
+.Fire {
+  background-color: #550d00;
+  color: #ff9c07;
+}
+.type-Fire {
+  color: rgb(44, 43, 43);
+  background: #fd9800;
+}
+
+.Flying {
+  background-color: #a890f0;
+}
+.type-Flying {
+  color: rgb(44, 43, 43);
+  background: #8772c4;
+}
+
+.Ground {
+  background-color: #ca9911;
+  color: #f1cd67;
+}
+.type-Ground {
+  color: rgb(44, 43, 43);
+  background: #f1cd67;
+}
+
+.Grass {
+  background-color: #78c850;
+  color: #3f7225;
+}
+
+.type-Grass {
+  color: rgb(44, 43, 43);
+  background: #519231;
+}
+
+.Water {
+  background-color: #4279f8;
+  color: #04548a;
+}
+.type-Water {
+  color: rgb(44, 43, 43);
+  background: #04afff;
+}
+
+.Psychic {
+  background-color: #f85888;
+  color: #c50f7f;
+}
+
+.type-Psychic {
+  color: rgb(44, 43, 43);
+  background-color: #c50f7f;
+}
+
+.Ice {
+  background-color: #98d8d8;
+  color: #04548a;
+}
+.type-Ice {
+  color: rgb(44, 43, 43);
+  background-color: #1899c0;
+}
+
+.Dark {
+  background-color: #485053;
+}
+.type-Dark {
+  color: rgb(44, 43, 43);
+  background-color: #666e72;
+}
+
+.Steel {
+  background-color: #a5afc2;
+  color: #cddde6;
+}
+
+.type-Steel {
+  color: rgb(44, 43, 43);
+  background-color: #cddde6;
+}
+
+.Dragon {
+  background-color: #7038f8;
+  color: #b496fa;
+}
+.type-Dragon {
+  color: rgb(44, 43, 43);
+  background-color: #b496fa;
+}
+.aligner {
+  color: rgb(44, 43, 43);
+  display: flex;
+  font-weight: 400;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+}
